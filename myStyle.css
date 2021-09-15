@@ -1,7 +1,7 @@
 h1
 {
 	color:#C96401;
-	background-color: #053A3A;
+	background-color: #613008;
 	text-align: center;
 	font-size: 3em;
 	letter-spacing: .1em;
@@ -10,7 +10,7 @@ h1
 	
 h2
 {
-	color:green;
+	color:C96401;
 	font-size: 1.5em;
 	font-family: serif;
 }
@@ -23,7 +23,7 @@ a
 body
 {
 	color:#C96401;
-	background-color:#053A3A;
+	background-color:#613008;
 	font-family: "Veranda", Sans-serif;
 }
 
