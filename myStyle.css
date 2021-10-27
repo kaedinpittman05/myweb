@@ -6,6 +6,8 @@ h1
 	font-size: 3em;
 	letter-spacing: .1em;
 	font-family: serif;
+	margin: 20px;
+	
 }
 	
 h2
@@ -13,6 +15,7 @@ h2
 	color:#C96401;
 	font-size: 1.5em;
 	font-family: serif;
+	margin: 20px;
 }
 
 a
@@ -33,6 +36,7 @@ p
 	font-size: 1em;
 	text-indent: 3em;
 	line-height: 1.5em;
+	margin: 20px;
 }
 
 h5
@@ -78,4 +82,11 @@ nav a:visited
 nav a:hover
 {
 	text-decoration:underline;
+}
+
+img
+{
+	
+	margin: 20px;
+	float: left;
 }
